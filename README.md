@@ -1,4 +1,4 @@
-# Draft - Notes app
+# Voice Memo app
 
 An elegant notes taking app written in Flutter that uses sqflite for storage.
 
@@ -20,15 +20,6 @@ An elegant notes taking app written in Flutter that uses sqflite for storage.
 
 ## Run the project
 - With Flutter installed, clone project and run `flutter run --release` in that directory, 
-or
-- Download the built APK from [here](https://github.com/roshanrahman/flutter-notes-app/raw/master/github_assets/draft.apk)
-
-## Screenshots
-<img src="github_assets/edit.gif" height="800">
-<img src="github_assets/dark.gif" height="800">
-
-Feedback is welcome! Contact me for any info.
-
 
 # VoiceMemo
-# VoiceMemo
+
